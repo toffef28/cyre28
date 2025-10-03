@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    
+}
+div{
+    border: 2px solid;
+    border-style: solid 15px;
+    border-color: rgb(233, 129, 247);
+    padding: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace; size: 75px; color: rgb(80, 79, 79);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace; size: 75px; text-decoration-line: underline; color: rgb(80, 79, 79);
+}
+
+h4{
+    font-family: 'Courier New', Courier, monospace; size: 75px; text-decoration-line: underline; color:  rgb(80, 79, 79);
+}
